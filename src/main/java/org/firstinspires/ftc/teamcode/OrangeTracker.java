@@ -1,3 +1,7 @@
+// This file tracks an orange object and estimates the distance.
+// Finds the object that is at least the MIN_AREA and has the best aspect ratio
+// of a square
+
 package org.firstinspires.ftc.teamcode;
 
 import android.graphics.Canvas;
